@@ -1,6 +1,6 @@
-/dataSets/setores_ceara_1991/raw_data
-/dataSets/setores_ceara_2000/raw_data
-/dataSets/setores_ceara_2010/raw_data
+/dataSets/setores_ceara_1991/raw_data/
+/dataSets/setores_ceara_2000/raw_data/
+/dataSets/setores_ceara_2010/raw_data/
 
 reated by https://www.toptal.com/developers/gitignore/api/python,jupyternotebooks
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,jupyternotebooks
